@@ -1,0 +1,27 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: user-microservice
+          uri: lb://user-microservice
+          predicates:
+            - Path=/user/**
+        - id: user-microservice
+          uri: lb://search-microservice
+          predicates:
+            - Path=/search/**
+        - id: analysis-microservice
+          uri: lb://analysis-microservice
+          predicates:
+            - Path=/analysis/**

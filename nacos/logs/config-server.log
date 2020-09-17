@@ -1,0 +1,60 @@
+2020-09-17 16:13:36,658 INFO notifyConnectTimeout:200
+
+2020-09-17 16:13:36,662 INFO notifySocketTimeout:8000
+
+2020-09-17 16:13:36,662 INFO isHealthCheck:true
+
+2020-09-17 16:13:36,662 INFO maxHealthCheckFailCount:12
+
+2020-09-17 16:13:36,663 INFO maxContent:10485760
+
+2020-09-17 16:13:36,663 INFO spring.datasource.platform:mysql
+
+2020-09-17 16:14:39,279 INFO notifyConnectTimeout:200
+
+2020-09-17 16:14:39,283 INFO notifySocketTimeout:8000
+
+2020-09-17 16:14:39,283 INFO isHealthCheck:true
+
+2020-09-17 16:14:39,283 INFO maxHealthCheckFailCount:12
+
+2020-09-17 16:14:39,283 INFO maxContent:10485760
+
+2020-09-17 16:14:39,283 INFO spring.datasource.platform:mysql
+
+2020-09-17 16:15:31,571 INFO notifyConnectTimeout:200
+
+2020-09-17 16:15:31,574 INFO notifySocketTimeout:8000
+
+2020-09-17 16:15:31,574 INFO isHealthCheck:true
+
+2020-09-17 16:15:31,575 INFO maxHealthCheckFailCount:12
+
+2020-09-17 16:15:31,575 INFO maxContent:10485760
+
+2020-09-17 16:15:31,575 INFO spring.datasource.platform:mysql
+
+2020-09-17 16:20:00,934 INFO notifyConnectTimeout:200
+
+2020-09-17 16:20:00,937 INFO notifySocketTimeout:8000
+
+2020-09-17 16:20:00,938 INFO isHealthCheck:true
+
+2020-09-17 16:20:00,938 INFO maxHealthCheckFailCount:12
+
+2020-09-17 16:20:00,938 INFO maxContent:10485760
+
+2020-09-17 16:20:00,938 INFO spring.datasource.platform:mysql
+
+2020-09-17 16:21:18,531 INFO notifyConnectTimeout:200
+
+2020-09-17 16:21:18,535 INFO notifySocketTimeout:8000
+
+2020-09-17 16:21:18,535 INFO isHealthCheck:true
+
+2020-09-17 16:21:18,535 INFO maxHealthCheckFailCount:12
+
+2020-09-17 16:21:18,535 INFO maxContent:10485760
+
+2020-09-17 16:21:18,536 INFO spring.datasource.platform:mysql
+
